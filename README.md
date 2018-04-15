@@ -12,7 +12,6 @@ This library is distributed in both the npm and bower packaging systems.
 
 ```sh
 npm install tealcoin-mnemonic
-bower install tealcoin-mnemonic
 ```
 
 There are many examples of how to use it on the developer guide [section for mnemonic](http://bitcore.io/guide/module/mnemonic/index.html). For example, the following code would generate a new random mnemonic code and convert it to a `HDPrivateKey`.
