@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "litecore-tealcoin-lib": "^0.14.0",
+    "litecore-tealcoin-lib": "^0.13.25",
     "unorm": "^1.3.3"
   }
 }
